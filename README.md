@@ -7,11 +7,7 @@ Dados enviados de forma incorreta ou fora do padrão.
 ## Como executar a aplicação
   Antes de iniciar a aplicação, é necessário criar um banco de dados no MySQL chamado **parking_control_db** na porta **3306**, no **localhost**. Configure seus usuário e senha no arquivo `src\main\resources\application.properties`. A seguir, use os comandos 'mvn clean' e 'mvn package' no terminal.
    
-   ## Tecnologias e ferramentas utilizadas
-- Java
-- Maven
-- JPA/Hibernate
-- Spring framework (Spring Boot, Spring Data JPA, ## Tecnologias e ferramentas utilizadas
+## Tecnologias e ferramentas utilizadas
 - Java
 - Maven
 - JPA/Hibernate
