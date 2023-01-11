@@ -1,5 +1,5 @@
 # api-ParkinControl
-Api ára controle de estacionamento desenvolvida a partir do curso completo de Spring Boot 2022 da [Michelli Brito](https://youtu.be/LXRU-Z36GEU).
+Api para controle de estacionamento desenvolvida a partir do curso completo de Spring Boot 2022 da [Michelli Brito](https://youtu.be/LXRU-Z36GEU).
 ## Error codes
 **404 - Bad Request**
 Dados enviados de forma incorreta ou fora do padrão.
